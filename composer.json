@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
+    "name": "aki/yii2-app-nuxt",
+    "description": "Yii 2 Basic Project Template Nuxtjs",
+    "keywords": ["yii2", "framework", "basic", "project template", "nuxt", "nuxtjs", "front nuxtjs", "vuejs"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
     "license": "BSD-3-Clause",
@@ -10,7 +10,7 @@
         "forum": "http://www.yiiframework.com/forum/",
         "wiki": "http://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "source": "https://github.com/akbarjoudi/yii2-app-nuxt"
     },
     "minimum-stability": "dev",
     "require": {

@@ -61,7 +61,7 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        return $this->render('index');
+        return file_get_contents('_nuxt/index.html');
     }
 
     /**
