@@ -31,3 +31,7 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+node_modules
+
+/.nuxt
+/web/_nuxt
